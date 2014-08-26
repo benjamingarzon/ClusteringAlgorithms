@@ -1,4 +1,4 @@
 ClusteringAlgorithms
 ====================
 
-Some clustering algorithms
+Some clustering algorithms for longitudinal data
